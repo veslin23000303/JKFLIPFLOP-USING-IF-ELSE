@@ -50,8 +50,8 @@ step-6 Run the program.
 
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:singamala venkata sai kumar reddy
-RegisterNumber:212223230208
+Developed by:VESLIN ANISH A
+RegisterNumber:212223240175
 */
 ```
 
@@ -91,11 +91,13 @@ end
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/23004205/JKFLIPFLOP-USING-IF-ELSE/assets/138971114/0eab823f-b0de-4580-87ad-8848799d5f45)
+![WhatsApp Image 2024-05-06 at 06 11 33_f7699323](https://github.com/veslin23000303/JKFLIPFLOP-USING-IF-ELSE/assets/151148539/bf87a7d3-ae0e-4cb4-8bf3-f9b439cb447c)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/23004205/JKFLIPFLOP-USING-IF-ELSE/assets/138971114/d4b48257-e37d-46c1-9c3c-97a3b1dbb09c)
+
+![WhatsApp Image 2024-05-06 at 06 12 03_d211c080](https://github.com/veslin23000303/JKFLIPFLOP-USING-IF-ELSE/assets/151148539/27884ac1-ad64-4a2c-a626-ad5144dc9259)
 
 **RESULTS**
 Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
