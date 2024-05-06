@@ -100,4 +100,5 @@ endmodule
 ![WhatsApp Image 2024-05-06 at 06 12 03_d211c080](https://github.com/veslin23000303/JKFLIPFLOP-USING-IF-ELSE/assets/151148539/27884ac1-ad64-4a2c-a626-ad5144dc9259)
 
 **RESULTS**
+
 Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
